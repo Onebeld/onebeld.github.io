@@ -1,0 +1,25 @@
+.onebeld-logo.main {
+    max-width: 500pt;
+    width: 100%;
+    /* center */
+    margin: 0 auto;
+}
+
+.onebeld-logo.main > svg {
+    width: auto;
+}
+
+.slogan {
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+p.slogan-text {
+    margin-top: 50pt;
+    text-align: center;
+    font-family: var(--onebeld-font-family-header);
+    font-size: 28pt;
+}
+

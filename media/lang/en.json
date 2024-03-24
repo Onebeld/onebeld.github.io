@@ -1,0 +1,31 @@
+{
+  "main.home": "Home",
+  "main.projects": "Projects",
+  "main.archive": "Archive",
+  "main.menu": "Menu",
+
+  "home.slogan": "In step with the times with confidence",
+
+  "projects.description": "Here is a collection of projects that are progressing or at least finished. You can click on the blocks to go to the source code.",
+
+  "projects.pleasantui.description": "Graphical user interface library for Avalonia with its own controls",
+  "projects.pleasantvacation.description": "Travel ticketing website. The backend is written in Java.",
+  "projects.regulsavecleaner.description": "Tool for cleaning the save files from unnecessary game data for The Sims 3 by Maxis.",
+  "projects.sparklescannerbot.description": "A Telegram chatbot that allows you to analyze websites, as well as alert the user to problems with the site, written in Rust.",
+  "projects.olibkey.description": "Software that allows you to store passwords, notes, documents and other important personal data on your computer. It runs on Microsoft .NET 5 using Avalonia UI. With OlibKey you can store passwords on your computer using AES encryption.",
+
+  "archive.description": "Here are collected projects that were created a long time ago. They are not maintained, and some of them are of poor quality. Despite this, they remain an important part of Onebeld development. You can click on the blocks to go to the source code.",
+  "archive.discontinued": "Discontinued",
+
+  "archive.regul.description": "Modern general-purpose application based on the system of modules, which allows you to run tools and edit files of any type.",
+  "archive.olibui.description": "Dynamic user interface for AvaloniaUI. The main advantages of this library are: skinning during execution and localization.",
+  "archive.quickautoclicker.description": "A program that allows you to automatically click the left mouse button at a designated time. It has click randomization. Written in C++ using Qt framework.",
+  "archive.flashaudio.description": "Simple music player with interface, similar to Fluent Design System from Windows 10.",
+  "archive.olib.description": "Universal application that allows you to perform various small tasks: random choice of variants, value converter, autoclicker and many other. Some of these names: Teredo and Jekyll",
+  "archive.bigboss": "The first site \"Big boss\"",
+  "archive.bigboss.description": "It is the main project of Onebeld. The site was originally a blog. It is now in operation",
+
+  "footer.links": "Links",
+  "footer.contact": "Contact",
+  "footer.copyright": "Copyright ©2024 Onebeld (Dmitry Zhutkov)"
+}

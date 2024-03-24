@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pleasantui",
+
+    "title": "PleasantUI",
+    "description": "{{projects.pleasantui.description}}",
+    "url": "https://github.com/Onebeld/PleasantUI",
+    "image": "https://github.com/Onebeld/PleasantUI/assets/44552715/c8354beb-5b4b-4ce6-acbb-eb2b5e6a23e1",
+    "color": "#b2d3d3"
+  },
+  {
+    "id": "pleasantvacation",
+
+    "title": "PleasantVacation",
+    "description": "{{projects.pleasantvacation.description}}",
+    "url": "https://github.com/Onebeld/PleasantVacation",
+    "image": "",
+    "color": "#b2d3d3"
+  },
+  {
+    "id": "sparklescannerbot",
+
+    "title": "Sparkle Scanner Bot",
+    "description": "{{projects.sparklescannerbot.description}}",
+    "url": "https://github.com/Onebeld/SparkleScannerBot",
+    "image": "https://github.com/Onebeld/SparkleScannerBot/assets/44552715/a3b89a34-8fc3-4cac-a887-ef88b35f1241",
+    "color": "#9DEAFA"
+  },
+  {
+    "id": "regulsavecleaner",
+
+    "title": "Regul Save Cleaner",
+    "description": "{{projects.regulsavecleaner.description}}",
+    "url": "https://github.com/Onebeld/RegulSaveCleaner",
+    "image": "https://github.com/Onebeld/RegulSaveCleaner/assets/44552715/865def67-05fb-4955-8a73-f297d3108685",
+    "color": "#E660B9"
+  },
+  {
+    "id": "olibkey",
+
+    "title": "OlibKey",
+    "description": "{{projects.olibkey.description}}",
+    "url": "https://github.com/Onebeld/OlibKey",
+    "image": "https://github.com/Onebeld/OlibKey/blob/master/ForRepository/ScreenProgram.png?raw=true",
+    "color": "#921d60"
+  }
+]
