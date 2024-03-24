@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width,initial-scale=0.8" />
 		<title>Onebeld</title>
-		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 		<link rel="stylesheet" href="media/css/main.css">
 		<link rel="stylesheet" href="media/css/index.css">
@@ -12,6 +12,7 @@
 
 		<script src="media/js/localization.js"></script>
 		<script src="media/js/main.js"></script>
+		<script src="media/js/index.js"></script>
 	</head>
 	<body>
 		<div class="wrapper">
@@ -65,6 +66,43 @@
 
 					<p class="slogan-text" data-translate-key="home.slogan"></p>
 				</div>
+
+				<div class="info-containers">
+					<div class="info-container left">
+						<div class="card info-card" data-tilt data-tilt-max="5" data-tilt-speed="400" data-tilt-perspective="500">
+							<img src="https://github.com/Onebeld/onebeld.github.io/assets/44552715/f2a97524-fb77-4af8-8205-b4e7e7ebaa43"
+								 alt="DmitryZhutkov">
+						</div>
+
+						<div>
+							<h1 class="info-title" data-translate-key="home.me"></h1>
+							<p class="description" data-translate-key="home.me.description"></p>
+						</div>
+					</div>
+					<div class="info-container right">
+						<div class="card info-card" data-tilt data-tilt-max="5" data-tilt-speed="400" data-tilt-perspective="500">
+							<img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Programming_code_123.jpg"
+								 alt="Programming">
+						</div>
+
+						<div>
+							<h1 class="info-title" data-translate-key="home.me.mainactivity"></h1>
+							<p class="description" data-translate-key="home.me.mainactivity.description"></p>
+						</div>
+					</div>
+					<div class="info-container left">
+						<div class="card info-card" data-tilt data-tilt-max="5" data-tilt-speed="400" data-tilt-perspective="500">
+							<img src="https://github.com/Onebeld/onebeld.github.io/assets/44552715/5e72fdf7-eb9d-4977-b787-c22c94c8fc7d"
+								 alt="Onebeld">
+						</div>
+
+						<div>
+							<h1 class="info-title" data-translate-key="home.me.site-goal"></h1>
+							<p class="description" data-translate-key="home.me.site-goal.description"></p>
+						</div>
+					</div>
+				</div>
+
 			</main>
 
 			<footer>
@@ -145,5 +183,7 @@
 			<div class="noise-background"></div>
 			<div class="black-background"></div>
 		</div>
+
+		<script src="https://cdn.jsdelivr.net/npm/vanilla-tilt@1.7.0/dist/vanilla-tilt.min.js"></script>
 	</body>
 </html>

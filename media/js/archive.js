@@ -1,6 +1,6 @@
 const ARCHIVE_TEMPLATE = `
     <a>
-        <div class="archive" data-tilt data-tilt-max="5" data-tilt-speed="400" data-tilt-perspective="500">
+        <div class="card archive" data-tilt data-tilt-max="5" data-tilt-speed="400" data-tilt-perspective="500">
             <img class="archive-image">
             <h2 class="archive-title"></h2>
             <p class="archive-description"></p>

@@ -1,6 +1,6 @@
 const PROJECT_TEMPLATE = `
     <a>
-        <div class="project" data-tilt data-tilt-max="5" data-tilt-speed="400" data-tilt-perspective="500">
+        <div class="card project" data-tilt data-tilt-max="5" data-tilt-speed="400" data-tilt-perspective="500">
             <img class="project-image">
             <h2 class="project-title"></h2>
             <p class="project-description"></p>

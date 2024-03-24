@@ -10,10 +10,11 @@
 }
 
 .slogan {
-    height: 95vh;
+    height: 85vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    margin-bottom: 10vh;
 }
 
 p.slogan-text {
@@ -23,3 +24,59 @@ p.slogan-text {
     font-size: 28pt;
 }
 
+.info-containers {
+    display: flex;
+    flex-direction: column;
+    gap: 100pt;
+    margin: 0 50pt 50pt;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40pt;
+    opacity: 0;
+    transform: translateY(30%);
+    transition: transform 500ms ease-out, opacity 500ms ease-out;
+}
+
+.info-card {
+    min-width: 250px;
+    min-height: 250px;
+    max-width: 250px;
+    max-height: 250px;
+}
+
+.info-card:hover {
+    filter: drop-shadow(0 0 15pt rgb(61, 203, 38));
+}
+
+.info-container.right {
+    flex-direction: row-reverse;
+}
+
+.description {
+    line-height: 1.4;
+}
+
+.info-title {
+    margin-top: 0;
+}
+
+@media screen and (max-width: 800px) {
+    .info-containers {
+        margin: 0 10pt 50pt;
+    }
+
+    .info-container {
+        gap: 10pt;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .info-container.right {
+        flex-direction: column;
+    }
+}

@@ -4,7 +4,11 @@
   "main.archive": "Archive",
   "main.menu": "Menu",
 
-  "home.slogan": "In step with the times with confidence",
+  "home.slogan": "Confidently in step with the times",
+  "home.me": "About me",
+  "home.me.description": "My name is Dmitry Zhutkov (better known as Onebeld), and I am passionate about creating software and solving technical problems. Since I started my journey in the programming world, I have been passionate about exploring new technologies and solving complex problems.",
+  "home.me.mainactivity": "Main activities",
+  "home.me.mainactivity.description": "My main focus is programming, creating a variety of software products and solutions for different fields. From web applications to software products",
 
   "projects.description": "Here is a collection of projects that are progressing or at least finished. You can click on the blocks to go to the source code.",
 

@@ -98,6 +98,14 @@ footer {
     opacity: 0;
 }
 
+.card {
+    overflow: hidden;
+    background-color: var(--onebeld-block-background-color);
+    border-radius: var(--onebeld-border-radius);
+    border: var(--onebeld-border-color) solid 1pt;
+    transition: filter 100ms linear, box-shadow 100ms linear;
+}
+
 h1, h2, h3 {
     font-family: var(--onebeld-font-family-header);
 }

@@ -10,11 +10,6 @@ main {
     padding: 10pt;
     display: flex;
     flex-direction: column;
-    background-color: var(--onebeld-block-background-color);
-   
-    border-radius: var(--onebeld-border-radius);
-    border: var(--onebeld-border-color) solid 1pt;
-    transition: filter 100ms linear, box-shadow 100ms linear;
 }
 
 .archive-image {
